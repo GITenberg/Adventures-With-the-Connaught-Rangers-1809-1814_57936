@@ -1,0 +1,30 @@
+_repo: Adventures-With-the-Connaught-Rangers-1809-1814_57936
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Grattan, William
+    gutenberg_agent_id: '49693'
+    url: http://www.gutenberg.org/2009/agents/49693
+  editor:
+    agent_name: Oman, Charles
+    aliases:
+    - Oman, Charles William Chadwick
+    - Oman, C. W. C. (Charles William Chadwick)
+    birthdate: 1860
+    deathdate: 1946
+    gutenberg_agent_id: '39035'
+    url: http://www.gutenberg.org/2009/agents/39035
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Oman
+description: ''
+gutenberg_issued: '2018-09-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57936'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Adventures With the Connaught Rangers 1809-1814
+url: http://www.gutenberg.org/ebooks/57936
